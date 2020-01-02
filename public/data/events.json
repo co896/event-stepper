@@ -1,0 +1,26 @@
+[
+  {
+    "eventId": "3513",
+    "price": "4.00",
+    "quantity": 0,
+    "inclusive": false
+  },
+  {
+    "eventId": "3512",
+    "price": "2.00",
+    "quantity": 0,
+    "inclusive": false
+  },
+  {
+    "eventId": "3515",
+    "price": "10.00",
+    "quantity": 0,
+    "inclusive": false
+  },
+  {
+    "eventId": "3517",
+    "price": "3.50",
+    "quantity": 0,
+    "inclusive": false
+  }
+]
